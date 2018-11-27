@@ -1,0 +1,11 @@
+package com.pojo;
+
+public class UserDept {
+	private int id;
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+}
